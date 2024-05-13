@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/@MartinCageOfficial" target="blank"><img align="center" src="https://badges.aleen42.com/src/html5.svg" alt="HTML5 Badge" /></a>
-<a href="https://www.youtube.com/@MartinCageOfficial" target="blank"><img align="center" src="https://badges.aleen42.com/src/javascript.svg" alt="JavaScript Badge" /></a>
 <a href="https://www.youtube.com/@MartinCageOfficial" target="blank"><img align="center" src="https://badges.aleen42.com/src/css3.svg" alt="CSS Badge" /></a>
+<a href="https://www.youtube.com/@MartinCageOfficial" target="blank"><img align="center" src="https://badges.aleen42.com/src/javascript.svg" alt="JavaScript Badge" /></a>
 
 ### Hi there, my name is Martijn 👋
 
